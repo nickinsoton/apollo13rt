@@ -659,7 +659,7 @@ FLIGHT, GUIDANCE.
 Go, GUIDANCE.
 
 [56 05 35 - 56 05 45] GUIDO
-When his hardware restart he was doing a clearly fine maneuver, and that should have killed it, but we're still moving. We ought to stop it.
+When his hardware restart he was doing a Crew-Defined Maneuver, and that should have killed it, but we're still moving. We ought to stop it.
 
 [56 05 45] FLIGHT
 Are we using RCS now, Buck?
